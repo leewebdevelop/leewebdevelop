@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @leewebdevelop in my final year studying Psychology and Computing 
+- 👋 Hi, I’m @leewebdevelop I have a bachelors degree in Psychology and Computing.
 - 👀 I’m interested in python and java 
 - 🌱 I’m currently learning python
 - 📫 How to reach me 
